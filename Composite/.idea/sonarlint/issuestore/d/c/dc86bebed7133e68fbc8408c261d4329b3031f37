@@ -1,0 +1,18 @@
+
+x
+java:S1192"]Define a constant instead of duplicating this literal "AÃ±ado una caja de TÃ© Verde" 3 times.(±óºÜûÿÿÿÿ
+t
+java:S1192"^Define a constant instead of duplicating this literal "AÃ±ado una caja de TÃ© Blanco" 3 times.(°Æ¬
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆçšÎùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°Æ¬
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°Æ¬
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±óºÜûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±óºÜûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±óºÜûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°Æ¬
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(Æö
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(Æö
+V	java:S125#"<This block of commented-out lines of code should be removed.(¤²€èûÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(üÀÁ

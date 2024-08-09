@@ -1,0 +1,5 @@
+
+o
+java:S1104"TMake distance a static final constant or non-public and provide accessors if needed.(¯“ê¨ýÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÂ¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™ŽûÚüÿÿÿÿ
